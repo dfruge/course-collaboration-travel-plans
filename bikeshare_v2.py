@@ -2,6 +2,7 @@ import time
 import math
 import pandas as pd
 # import numpy as np
+# numpy is not used in the script and is disabled from import
 
 CITY_DATA = {
     'chicago': 'chicago.csv',
